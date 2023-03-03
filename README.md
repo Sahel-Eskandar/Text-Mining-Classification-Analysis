@@ -1,4 +1,4 @@
-# Word Classification and Sentimental Analysis
+# Text Classification and Sentimental Analysis
 
 Text classification and sentiment analysis are two related techniques in natural language processing that involve automatically analyzing and categorizing text data based on its content.
 
