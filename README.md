@@ -23,3 +23,7 @@ Text classification and sentiment analysis involve a combination of NLP and data
   4. Evaluation metrics: This involves measuring the performance of the text classification and sentiment analysis models on a test dataset. Metrics such as accuracy, precision, recall, F1 score, and confusion matrix can be used to evaluate the performance of the models.
 
   5. Model optimization: This involves fine-tuning the machine learning models to improve their performance on the test dataset. Techniques such as hyperparameter tuning (adjusting model parameters such as learning rate, regularization, etc.), feature selection (selecting the most important features for the model), and ensemble learning (combining multiple models to improve performance) can be used to optimize the models.
+  
+[Here](https://medium.com/p/7a60a9023009) you can find the Medium post talking about this project.
+
+
