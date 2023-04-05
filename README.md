@@ -15,10 +15,6 @@ Text classification and sentiment analysis involve a combination of NLP and data
   2. Feature extraction: This involves selecting the most important features (words or phrases) from the preprocessed text data that are likely to be relevant for classification. Techniques such as bag-of-words (counting the frequency of each word in a document), TF-IDF (weighing words by their importance in a document), and word embeddings (representing words as vectors in a high-dimensional space) can be used to extract features.
 
   3. Machine learning algorithms: This involves training a machine learning model on the preprocessed and feature-extracted text data to predict the category or sentiment of new text data. Common machine learning algorithms used for text classification and sentiment analysis include Naive Bayes, Support Vector Machines (SVM), Random Forests, and Deep Learning models like Recurrent Neural Networks (RNN) and Convolutional Neural Networks (CNN).This notebook will focus on text-classification and sentiment analysis. We will go through all major NLP and dat analysis techniques, some of which include:
-  - LSTMs
-  - Transformers (such as BERT)
-  - Naive Bayes
-  - XGBoost
 
   4. Evaluation metrics: This involves measuring the performance of the text classification and sentiment analysis models on a test dataset. Metrics such as accuracy, precision, recall, F1 score, and confusion matrix can be used to evaluate the performance of the models.
 
