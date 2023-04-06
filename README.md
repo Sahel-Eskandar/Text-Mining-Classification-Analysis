@@ -1,4 +1,12 @@
-# Text Classification and Sentimental Analysis
+# Text Mining, Classification, and Sentimental Analysis
+
+Text mining is the process of analyzing and extracting valuable insights from text data. In Python, there are several libraries and tools available for performing text mining tasks, such as NLTK, TextBlob, spaCy, scikit-learn, and gensim.
+
+Some of the useful links:
+
+[Regex Expression](https://docs.python.org/3/library/re.html)
+
+[NLTK Toolkit](https://www.nltk.org/index.html)
 
 Text classification and sentiment analysis are two related techniques in natural language processing that involve automatically analyzing and categorizing text data based on its content.
 
